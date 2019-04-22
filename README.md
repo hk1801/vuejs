@@ -1,2 +1,6 @@
 # vuejs
-This is static crud application
+This is static crud application.
+
+You can run directly index.html
+
+
